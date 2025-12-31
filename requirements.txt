@@ -1,0 +1,17 @@
+# Web Framework
+fastapi>=0.115.0      # Updated for better Pydantic v2 support
+uvicorn>=0.30.0
+python-multipart>=0.0.9
+
+# Data Science (Must be newer for Python 3.13)
+pandas>=2.2.3
+numpy>=1.26.4
+scikit-learn>=1.5.0
+joblib>=1.4.0
+
+# AI / LLM
+ollama>=0.3.0         # Updated client
+
+# Utilities
+pydantic>=2.9.0       # CRITICAL: Fixes the 'recursive_guard' error
+requests>=2.32.0
