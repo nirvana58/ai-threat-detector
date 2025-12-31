@@ -470,4 +470,4 @@ if __name__ == '__main__':
         print("Installing required packages...")
         os.system(f"{sys.executable} -m pip install pandas tabulate requests")
 
-    main(
+    main()
