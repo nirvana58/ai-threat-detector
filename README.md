@@ -276,9 +276,9 @@ MIT License - see LICENSE file for details
 
 For issues, questions, or contributions:
 
-- GitHub Issues: [Report a bug](https://github.com/yourusername/nirvana-threat-detector/issues)
+- GitHub Issues: [Report a bug](https://github.com/nirvana58/ai-threat-detector/issues)
 - Documentation: See SETUP.md for detailed setup instructions
-- Email: support@example.com
+- Email: laksmeesha.s.999@gmail.com
 
 ## Roadmap
 
